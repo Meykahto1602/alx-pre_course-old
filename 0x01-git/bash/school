@@ -1,2 +1,4 @@
-#!/bin/bash
-echo School
+echo ALX >> alx
+echo '#!/bin/bash' > school
+ls 
+echo echo School
